@@ -16,3 +16,9 @@ MERN Application that shows food menu and generates recipes.
 * Morgan - To log API Calls
 * Mongoose - To Manage Mongo DB
 * Nodemon - For Live Server
+
+
+
+### Only For Production:
+1. Back-end Server: 5001
+2. Front-end Server: 5000
