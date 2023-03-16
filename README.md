@@ -9,7 +9,10 @@ MERN Application that shows food menu and generates recipes.
 
 ### Libraries Required:
 * Express
-* Body-parser
-* Cors
-* Dotenv
-* Mongoose
+* Body-parser - For User-Controlled Inputs
+* Cors - Cross Origin Resource Sharing
+* Dotenv - For Environment Variables
+* Helmet - To Protect API
+* Morgan - To log API Calls
+* Mongoose - To Manage Mongo DB
+* Nodemon - For Live Server
